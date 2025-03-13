@@ -1,3 +1,9 @@
+# project 相关
+data/
+data/audio/
+models/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
